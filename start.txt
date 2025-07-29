@@ -1,1 +1,6 @@
-niciamos el proyecto agape
+start with the project
+
+Templaet will use in the project in react
+https://github.com/sagarredde2/react-crud-table
+
+
